@@ -1,0 +1,7 @@
+/venv
+/media
+/.vscode
+/file_transfer/migrations
+/file_transfer/__pycache__
+/sharepy98/__pycache__
+*.sqlite3
